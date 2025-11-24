@@ -58,7 +58,7 @@ function App() {
         </div>
 
         <div className="card">
-          <h3>React Intern – XYZ Tech</h3>
+          <h3>React Intern – 724.One</h3>
           <p className="date">2021 – 2022</p>
           <p>
             Helped develop dashboard components and implemented responsive
