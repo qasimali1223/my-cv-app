@@ -59,7 +59,7 @@ function App() {
 
         <div className="card">
           <h3>React Intern – 724.One</h3>
-          <p className="date">2021 – 2022</p>
+          <p className="date">2021 – 2024</p>
           <p>
             Helped develop dashboard components and implemented responsive
             layouts for client projects.
