@@ -7,7 +7,7 @@ function App() {
         <img src="/profile.png" alt="Profile" className="profile-pic" />
 
         <div className="header-info">
-          <h1>John Doe</h1>
+          <h1>Qasim Ali</h1>
           <p>Frontend Developer | React Developer | UI Designer</p>
         </div>
       </div>
@@ -49,8 +49,8 @@ function App() {
         <h2>Experience</h2>
 
         <div className="card">
-          <h3>Frontend Developer – ABC Company</h3>
-          <p className="date">2022 – Present</p>
+          <h3>Frontend Developer – 724.One</h3>
+          <p className="date">2024 – Present</p>
           <p>
             Developed UI components, improved website performance, and created
             reusable design elements using React.
@@ -69,9 +69,9 @@ function App() {
 
       <section className="section contact">
         <h2>Contact</h2>
-        <p>📧 johndoe@mail.com</p>
-        <p>📍 New York, USA</p>
-        <p>🔗 linkedin.com/in/johndoe</p>
+        <p>📧 ranaqasimali1428@gmail.com</p>
+        <p>📍 Lahore, Pakistan</p>
+        <p>🔗 www.linkedin.com/in/qasim-ali-6b4092269</p>
       </section>
     </div>
   );
