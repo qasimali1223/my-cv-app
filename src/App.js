@@ -216,13 +216,13 @@ function App() {
         </p>
         <div className="contact-details">
           <p>
-            <FaEnvelope /> youremail@example.com
+            <FaEnvelope /> ranaqasimali1428@gmail.com
           </p>
           <p>
-            <FaLinkedin /> linkedin.com/in/your-linkedin
+            <FaLinkedin /> linkedin.com/in/qasimali1428
           </p>
           <p>
-            <FaGithub /> github.com/your-github
+            <FaGithub /> github.com/qasimali1223
           </p>
         </div>
       </section>
